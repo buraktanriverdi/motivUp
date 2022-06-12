@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MotivUp</string>
+    <string name="title_home">Home</string>
+    <string name="title_add">Add</string>
+    <string name="title_settings">Settings</string>
+    <string name="null_err">Eror: Required field</string>
+    <string name="choose_type">Choose type</string>
+
+    <string-array name="typeArr">
+        <item>Daily</item>
+        <item>Weekly</item>
+    </string-array>
+
+    <string-array name="searchArr">
+        <item>All</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+    </string-array>
+</resources>
